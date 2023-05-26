@@ -1,1 +1,1 @@
-# crud_ci3
+# Tutorial : https://sih4nk.com/framework/codeigniter/crud-dengan-codeigniter-3.html
